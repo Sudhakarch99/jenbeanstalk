@@ -110,8 +110,8 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>IT WORKED CHUNDU :D</h1>
-    <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
+    <h1>IT WORKED CHUNDU! :D</h1>
+    <p>Elastic Beanstalk Python Application is now running AWS Cloud</p>
   </div>
   
   <div class="linksColumn"> 
